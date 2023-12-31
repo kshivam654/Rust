@@ -1,0 +1,16 @@
+  992  fig
+  993  fig doctor
+  994  fig issue
+  995  ls
+  996  dir
+  997  path
+  998  pdw
+  999  pwd
+ 1000  clear
+ 1001  ls
+ 1002  git clone https://github.com/kshivam654/Rust.git
+ 1003  cd Rust/
+ 1004  code .
+ 1005  rustc main.rs
+ 1006  ./main
+ 1007  fig
