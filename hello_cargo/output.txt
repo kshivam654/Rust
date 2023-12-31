@@ -1,0 +1,16 @@
+ 1009  git add .
+ 1010  git commit -m 'hello world!'
+ 1011  git push
+ 1012  cargo --version
+ 1013  cargo new hello_cargo
+ 1014  cd hello_cargo/
+ 1015  cargo new --vcs=git
+ 1016  cargo b
+ 1017  ./target/debug/hello_cargo
+ 1018  cargo r
+ 1019  cargo r
+ 1020  cargo c
+ 1021  cargo b -r
+ 1022  git add .
+ 1023  git commit -m 'cargo create, build, check, run and release commands learned.'
+ 1024  git push
